@@ -11,6 +11,7 @@
 .thumbnails-item {
     border: solid 2px red;
 margin-top: 40px;
+    max-width: 15vm;
 
 }
 .thumbnails-item:hover {
@@ -89,7 +90,7 @@ html, body {
     .thumbnails-list {
         flex-direction: column;
         flex-wrap: nowrap;
-        max-height: 90vh;
+        max-height: 100vh;
         overflow-y: auto;
         justify-content: left;
         margin-top: 0;
