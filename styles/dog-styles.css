@@ -11,7 +11,6 @@
 .thumbnails-item {
     border: solid 2px red;
 margin-top: 40px;
-    max-width: 15vm;
 
 }
 .thumbnails-item:hover {
